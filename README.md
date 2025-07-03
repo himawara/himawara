@@ -37,7 +37,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himawara&repo=Hostel-Management-System&theme=radical)](https://github.com/himawara/Hostel-Management-System)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himawara&repo=Movie-Review-Analysis&theme=radical)](https://github.com/himawara/Movie-Review)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himawara&repo=Movie-Review&theme=radical)](https://github.com/himawara/Movie-Review)
 
 ---
 
