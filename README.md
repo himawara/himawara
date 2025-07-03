@@ -13,7 +13,7 @@
 - 👩‍💻 Participated in hackathons like **SheHacks**, **Smart India Hackathon**
 - 💬 Ask me about: **MERN Stack, DBMS, OOPs, OS, CN**
 - 📫 Reach me at: **ishitagupta26052006@gmail.com**
-- 📄 [Resume](link-to-your-resume.com) (add your resume link here)
+- 📄 [Resume](https://drive.google.com/file/d/1O_tL5KIUIh__vFcENqk1ugzOjSBJKgEh/view) 
 
 ---
 
